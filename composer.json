@@ -1,0 +1,30 @@
+{
+  "name": "bytic/payments-gateways",
+  "type": "library",
+  "license": "MIT",
+  "description": "Payments gateways common list for bytic library",
+  "keywords": [],
+  "homepage": "https://github.com/bytic/payments-gateways",
+  "authors": [
+    {
+      "name": "Gabriel Solomon",
+      "email": "hello@gabrielsolomon.ro"
+    }
+  ],
+  "autoload": {
+  },
+  "autoload-dev": {
+  },
+  "require": {
+    "php": "^7.1",
+    "bytic/payments-stripe": "^1.0",
+    "bytic/payments-mobilpay": "^1.0"
+  },
+  "require-dev": {
+  },
+  "suggest": {
+    "bytic/payments": "^1.0"
+  },
+  "scripts": {
+  }
+}
