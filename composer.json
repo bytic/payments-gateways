@@ -18,7 +18,8 @@
   "require": {
     "php": "^7.1",
     "bytic/payments-stripe": "^1.0",
-    "bytic/payments-mobilpay": "^1.0"
+    "bytic/payments-mobilpay": "^1.0",
+    "bytic/payments-librapay": "^1.0"
   },
   "require-dev": {
   },
