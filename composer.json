@@ -18,9 +18,9 @@
   "require": {
     "php": "^7.1",
     "paytic/payments-simplify": "^1.0",
+    "paytic/payments-librapay": "^1.0",
     "bytic/payments-stripe": "^1.0",
-    "bytic/payments-mobilpay": "^1.0",
-    "bytic/payments-librapay": "^1.0"
+    "bytic/payments-mobilpay": "^1.0"
   },
   "require-dev": {
   },
