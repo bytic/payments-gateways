@@ -16,7 +16,6 @@
   "autoload-dev": {
   },
   "require": {
-    "php": "^7.1",
     "paytic/payments-simplify": "^1.0",
     "paytic/payments-librapay": "^1.0",
     "paytic/payments-plationline": "^1.0",
