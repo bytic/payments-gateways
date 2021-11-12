@@ -20,7 +20,7 @@
     "paytic/payments-librapay": "^1.0",
     "paytic/payments-plationline": "^1.0",
     "paytic/payments-stripe": "^1.0",
-    "bytic/payments-mobilpay": "^1.0"
+    "paytic/payments-mobilpay": "^1.0"
   },
   "require-dev": {
   },
