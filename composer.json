@@ -1,10 +1,10 @@
 {
-  "name": "bytic/payments-gateways",
+  "name": "paytic/payments-gateways",
   "type": "library",
   "license": "MIT",
-  "description": "Payments gateways common list for bytic library",
+  "description": "Payments gateways common list for paytic library",
   "keywords": [],
-  "homepage": "https://github.com/bytic/payments-gateways",
+  "homepage": "https://github.com/paytic/payments-gateways",
   "authors": [
     {
       "name": "Gabriel Solomon",
@@ -16,9 +16,11 @@
   "autoload-dev": {
   },
   "require": {
+    "paytic/payments-euplatesc": "^1.0",
     "paytic/payments-simplify": "^1.0",
     "paytic/payments-librapay": "^1.0",
     "paytic/payments-plationline": "^1.0",
+    "paytic/payments-payu": "^1.0",
     "paytic/payments-stripe": "^1.0",
     "paytic/payments-mobilpay": "^1.0"
   },
