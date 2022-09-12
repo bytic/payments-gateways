@@ -16,6 +16,9 @@
   "autoload-dev": {
   },
   "require": {
+    "paytic/omnipay-paylike": "^3.0",
+    "paytic/omnipay-romcard": "^3.0",
+
     "paytic/payments-euplatesc": "^1.0",
     "paytic/payments-simplify": "^1.0",
     "paytic/payments-librapay": "^1.0",
