@@ -18,7 +18,6 @@
   "require": {
     "paytic/omnipay-paylike": "^3.0",
     "paytic/omnipay-romcard": "^3.0",
-
     "paytic/payments-euplatesc": "^1.0",
     "paytic/payments-simplify": "^1.0",
     "paytic/payments-librapay": "^1.0",
@@ -26,7 +25,8 @@
     "paytic/payments-payu": "^1.0",
     "paytic/payments-stripe": "^1.0",
     "paytic/payments-mobilpay": "^1.0",
-    "paytic/payments-twispay": "^1.0"
+    "paytic/payments-twispay": "^1.0",
+    "paytic/payments-btipay": "^1.0"
   },
   "require-dev": {
   },
